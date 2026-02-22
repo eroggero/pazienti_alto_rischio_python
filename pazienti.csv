@@ -1,0 +1,9 @@
+id_paziente,nome,cognome,eta,sesso,fumatore,attivita_fisica
+P001,Marco,Rossi,45,M,SI,Bassa
+P002,Anna,Bianchi,52,F,NO,Moderata
+P003,Luca,Verdi,38,M,SI,Alta
+P004,Giulia,Russo,61,F,NO,Bassa
+P005,Paolo,Ferrari,29,M,NO,Moderata
+P006,Chiara,Esposito,43,F,SI,Alta
+P007,Roberto,Conti,55,M,SI,Bassa
+P008,Francesca,De Luca,34,F,NO,Moderata

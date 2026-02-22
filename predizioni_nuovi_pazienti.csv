@@ -1,0 +1,4 @@
+eta,sesso,fumatore,attivita_fisica,colesterolo_predetto,prob_rischio_alto,classe_rischio
+35,M,NO,Alta,186,4.0,BASSO
+55,F,SI,Bassa,257,61.0,ALTO
+70,M,NO,Sedentario,214,19.0,BASSO
